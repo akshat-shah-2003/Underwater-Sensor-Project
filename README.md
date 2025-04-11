@@ -56,8 +56,8 @@ The main goals of UASNs include:
 ### Prerequisites
 
 - Basic understanding of wireless sensor networks
-- Programming knowledge in C++ or Python
-- Familiarity with simulation tools (NS-3, Aqua-Sim, MATLAB)
+- Programming knowledge in Python and Jupyter notebook
+- Familiarity with simulation tools
 
 ### Suggested Steps
 
@@ -72,7 +72,7 @@ The main goals of UASNs include:
 ## 📚 References
 
 - Research papers on UASNs
-- NS-3 with Aqua-Sim documentation
+- Documentations and articles on internet
 - Marine sensing and underwater communication textbooks
 
 ---
