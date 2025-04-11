@@ -94,6 +94,6 @@ For any queries:
 
 ## 🧠 Fun Fact
 
-Sound travels about **4 times faster in water** than in air, making acoustic signals the best way to communicate underwater!
+Transmission losses decrease with increase in depth underwater!
 
 ---
