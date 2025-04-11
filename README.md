@@ -87,8 +87,8 @@ Feel free to fork the repo, suggest improvements, or raise issues!
 ## 📫 Contact
 
 For queries or collaboration:
-**Email**: yourname@example.com  
-**LinkedIn**: [YourLinkedIn](https://linkedin.com/in/yourprofile)
+**Email**: akshats1607@gmail.com  
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/akshat-shah-b6b857231/)
 
 ---
 
