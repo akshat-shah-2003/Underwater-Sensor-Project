@@ -1,6 +1,4 @@
 # Underwater-Sensor-Project
-Sure! Here's a clean and clear `README.md` file for your project on **Underwater Acoustic Sensor Networks (UASNs)**, written in a beginner-friendly but professional tone:
-
 ---
 
 # 🌊 Underwater Acoustic Sensor Networks (UASNs)
@@ -99,5 +97,3 @@ For queries or collaboration:
 Sound travels about **4 times faster in water** than in air, making acoustic signals the best way to communicate underwater!
 
 ---
-
-Let me know if you'd like this in a downloadable `.md` file, or if you're also planning to include simulation files, hardware diagrams, or code repositories with this.
